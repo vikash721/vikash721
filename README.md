@@ -1,5 +1,5 @@
 <a href="https://your-portfolio-link-here">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpwOTc3Y2NpZzQ4NWcwdW9qMXZwMnJkN3QycTM1dmNjYW1jaTg3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SjCIh9jL3SWC4TuYn1/giphy.gif" alt="MasterHead" style="width: 100%;" />
+    <img src="https://github.com/user-attachments/assets/88fdda90-6d4c-42ec-a945-b9782385465e" alt="MasterHead" style="width: 100vw;" />
 </a>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+YourName%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm YourName"></div>
