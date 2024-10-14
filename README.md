@@ -1,4 +1,5 @@
-# 💫 About Me:
+#👋 Hi, I’m Vikash!
+I’m a passionate full-stack developer and a B.Tech 2nd-year student in India. My expertise lies in React, Firebase, and backend development, with growing interests in Web3 and Blockchain technologies like NEAR and Ethereum.
 🔭 Currently working on real-time chat apps and exploring Web3 with NEAR and Ethereum.<br>👯 Open to collaborating on React, Firebase, and blockchain projects.<br>🤝 Looking for help with smart contracts and dApp integration.<br>🌱 Learning Solidity and Ethers.js for building decentralized apps.<br>💬 Ask me about frontend development, Firebase, and Web3 basics.<br>⚡ Fun fact: I enjoy hosting web development sessions at college!
 
 
