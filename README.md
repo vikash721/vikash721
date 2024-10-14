@@ -1,6 +1,8 @@
+![Minecraft Coding](https://media.giphy.com/media/d3mXzMkNNNwB1uC6/giphy.gif)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Hii+there+%F0%9F%91%8B%2C+I'm+Vikash!;Nice+to+meet+you!+%F0%9F%91%8F)
 
-I’m a passionate **full-stack developer** and a **B.Tech 2nd-year student** in India. My expertise lies in **React**, **Firebase**, and backend development, with growing interests in **Web3** and **Blockchain technologies** like **NEAR** and **Ethereum**.
+I’m a passionate **full-stack developer** and a **Engineering student** in India. My expertise lies in **React**, **Firebase**, and backend development, with growing interests in **Web3** and **Blockchain technologies** like **NEAR** and **Ethereum**.
 
 - 🔭 **Currently working on:** Real-time chat apps and exploring Web3 with NEAR and Ethereum.  
 - 👯 **Open to collaborating on:** React, Firebase, and blockchain projects.  
