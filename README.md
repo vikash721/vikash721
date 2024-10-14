@@ -1,4 +1,7 @@
-[![MasterHead](https://your-masterhead-url-here.gif)](https://your-portfolio-link-here)</br>
+<a href="https://your-portfolio-link-here">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpwOTc3Y2NpZzQ4NWcwdW9qMXZwMnJkN3QycTM1dmNjYW1jaTg3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SjCIh9jL3SWC4TuYn1/giphy.gif" alt="MasterHead" style="width: 100%;" />
+</a>
+
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+YourName%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm YourName"></div>
 
 <h3 align="center">A passionate Full-Stack developer from Your Country</h3>
@@ -11,11 +14,11 @@
     I am constantly striving to learn new things and improve my skills, and my GitHub profile is one of the ways in which I do so. I believe that open-source is the future of software development and I am excited to be a part of this community.
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://your-coding-gif-url-here.gif">
 
-![Pixel Art GIF](https://media.giphy.com/media/OqWiSr0ukJWDe/giphy.gif)
 
-[via GIPHY](https://giphy.com/gifs/dusancezek-art-pixel-dusan-cezek-OqWiSr0ukJWDe)
+
+  <img src="https://github.com/user-attachments/assets/83b1a90a-d77c-4fe6-b44a-93ff38dd26d4"  align="right" alt="Coding" width="400" />
+
 
 
 - 💬 Pronouns: **He/His** (Or your pronouns)
