@@ -6,7 +6,6 @@
 
 
 
-
 I’m a passionate **full-stack developer** and a **Engineering student** in India. My expertise lies in **React**, **Firebase**, and backend development, with growing interests in **Web3** and **Blockchain technologies** like **NEAR** and **Ethereum**.
 
 - 🔭 **Currently working on:** Real-time chat apps and exploring Web3 with NEAR and Ethereum.  
