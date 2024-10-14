@@ -2,12 +2,12 @@
     <img src="https://github.com/user-attachments/assets/88fdda90-6d4c-42ec-a945-b9782385465e" alt="MasterHead" style="width: 100vw;" />
 </a>
 
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+YourName%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm YourName"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=4230FF00&center=true&width=500&height=75&lines=Hello%F0%9F%91%8B%2C+I'm+Vikash%F0%9F%99%8B;Nice+to+Meet+you%F0%9F%98%8A" alt="Hello, I'm YourName"></div>
 
-<h3 align="center">A passionate Full-Stack developer from Your Country</h3>
+<h3 align="center">A dedicated Full-Stack and Web3 developer based in India.</h3>
 
 <p align="center">
-    I'm an <b>IT enthusiast</b> , <b>full-stack developer</b> and <b>entrepreneur</b> from Your Country. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
+    I'm an <b>technology  enthusiast</b> , <b> Full-Stack and Web3 developer</b> and <b>entrepreneur</b> from India. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
 </p>
 
 <p align="center">
@@ -21,23 +21,19 @@
 
 
 
-- 💬 Pronouns: **He/His** (Or your pronouns)
+- 💬 Pronouns: **He/His**
 - 🌱 I’m looking to collaborate on **Open Source Projects**
-- 🤝 I like to **Just chit-chat**
-- 👀 Currently learning **New Techs**
-- 📝 I write articles on My <a href="https://your-blog-link-here.com/">Your Blog</a>
-- 📫 Reach me : <a href="mailto:your-email@example.com">your-email@example.com</a>
-- 📄 Know more about me on <a href="https://your-portfolio-link.com">My Portfolio</a>
+- 🤝 I’m always up for a friendly chat.
+- 👀 Currently learning **Web3**
+- 📫 Reach me : <a href="mailto:vikashkumar355555@gmail.com">vikash</a>
 - ⚡ Fun fact **I'm an Engineer😂**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://facebook-link-here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Facebook Profile" height="30" width="40" /></a>
-<a href="https://instagram-link-here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Your Instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@your-channel-name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@your-channel-name" height="30" width="40" /></a>
-<a href="https://discord-link-here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Your Discord" height="30" width="40" /></a>
-</p>
+### Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VikashSharma_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikashkumar721) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vikash_code) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VikashSharma_16) 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle) [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=your-linkedin-handle&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/your-linkedin-handle/) [![GitHub followers](https://img.shields.io/github/followers/your-github-username.svg?label=Follow%20@your-github-username&style=social)](https://github.com/your-github-username/)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=vikash721&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <hr>
