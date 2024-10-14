@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Vikash!
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vikash!;I'm+a+Full-Stack+Developer!;Nice+to+meet+you!+%F0%9F%91%8F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=440&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Vikash!;Nice+to+meet+you!+%F0%9F%91%8F)
 
 I’m a passionate **full-stack developer** and a **B.Tech 2nd-year student** in India. My expertise lies in **React**, **Firebase**, and backend development, with growing interests in **Web3** and **Blockchain technologies** like **NEAR** and **Ethereum**.
 
