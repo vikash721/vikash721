@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://your-coding-gif-url-here.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" /> </p>
+<p align="left"> <iframe src="https://giphy.com/embed/OqWiSr0ukJWDe" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dusancezek-art-pixel-dusan-cezek-OqWiSr0ukJWDe">via GIPHY</a></p> </p>
 
 - 💬 Pronouns: **He/His** (Or your pronouns)
 - 🌱 I’m looking to collaborate on **Open Source Projects**
