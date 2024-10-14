@@ -4,7 +4,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=Hii+there+%F0%9F%91%8B%2C+I'm+Vikash!;Nice+to+meet+you!+%F0%9F%91%8F;)
 
-![Working on Computer](https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif)
 
 
 I’m a passionate **full-stack developer** and a **Engineering student** in India. My expertise lies in **React**, **Firebase**, and backend development, with growing interests in **Web3** and **Blockchain technologies** like **NEAR** and **Ethereum**.
