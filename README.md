@@ -1,4 +1,4 @@
-![Pudgy Penguins Typing](https://media.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif)
+
 
 
 
