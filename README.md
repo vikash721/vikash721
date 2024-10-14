@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://your-coding-gif-url-here.gif">
 
-<p align="left"> <iframe src="https://giphy.com/embed/OqWiSr0ukJWDe" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dusancezek-art-pixel-dusan-cezek-OqWiSr0ukJWDe">via GIPHY</a></p> </p>
+<iframe src="https://giphy.com/embed/OqWiSr0ukJWDe" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dusancezek-art-pixel-dusan-cezek-OqWiSr0ukJWDe">via GIPHY</a></p>
 
 - 💬 Pronouns: **He/His** (Or your pronouns)
 - 🌱 I’m looking to collaborate on **Open Source Projects**
