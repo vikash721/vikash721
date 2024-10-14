@@ -29,7 +29,7 @@
 - ⚡ Fun fact **I'm an Engineer😂**
 
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/VikashSharma_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikashkumar721) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vikash_code) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VikashSharma_16) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vikasharma_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikashkumar721) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vikash_code) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VikashSharma_16) 
 
 
 
