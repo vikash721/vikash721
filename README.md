@@ -7,7 +7,7 @@
 <h3 align="center">A dedicated Full-Stack and Web3 developer based in India.</h3>
 
 <p align="center">
-    I'm an <b>technology  enthusiast</b> , <b> Full-Stack and Web3 developer</b> and <b>entrepreneur</b> from India. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
+    I'm an <b>technology  enthusiast</b> , <b> Full-Stack and Web3 developer</b> from India. I have an enormous passion for programming and I'm a huge believer in the power of technology to reach new heights. 
 </p>
 
 <p align="center">
