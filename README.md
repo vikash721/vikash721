@@ -28,7 +28,7 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,cpp,git,github,vscode,solidity,postman,vercel,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,cpp,git,github,vscode,solidity,postman,vercel,firebase,bun,cloudflare,docker,jest,npm,redux,redis,supabase,vercel," />
 </p>
 
 ---
